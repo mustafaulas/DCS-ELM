@@ -1,4 +1,4 @@
-
+RUN
 clear all
 clc
 DATA = 'data.mat';
