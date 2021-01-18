@@ -1,0 +1,14 @@
+Public Datasets 
+****************************************************************************
+The energy, house and servo data sets obtained from public data set sharing platform UCI are explained [53].
+Energy
+Energy data set consists of 8 inputs and 2 outputs. Input values consist of relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area and glazing area distrubution. Output values consist of heating load and cooling load. It has been examined separately for two different output values. There are 768 sample data in the data set created by considering the output variables of different buildings [54].
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+
+House
+In the House data set, between June 2012 and May 2013, data from 4 different regions is beyond the supply and demand circle. There are a total of 414 sample data in the data set. The input parameters of the data set consist of 6 different parameters: transaction date, age, distance to the nearest MRT station, the number of convenience stores in the living circle on foot and the geographic coordinate (latitude and longitude). The exit value is the price of the house [55].
+https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+
+Servo
+There are 167 sample data in the servo data set. The input parameters of the data set are engine, screw, pgain and vgain. Output values constitute the rise time of the servomechanism. The dataset created by Karl Ulrich covers a nonlinear phenomenon [56, 57].
+https://archive.ics.uci.edu/ml/datasets/Servo
