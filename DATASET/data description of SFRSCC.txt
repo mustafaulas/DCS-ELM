@@ -1,0 +1,30 @@
+Data Description
+
+@author: Osman ALTAY, Mustafa ULAS, Kürşat Esat ALYAMAÇ
+@title: DCS-ELM: a novel method for extreme learning machine for regression problems and a new approach for the SFRSCC,Peerj, In press,2021
+
+4 different concrete tests were selected from the fresh and hardened concrete tests. 
+V-funnel, T50 and slump-flow tests used to determine fresh concrete performance and concrete compressive strength tests used to determine the performance of hardened concrete were used. 
+The data sets used were obtained from our own experiments and theses and articles obtained from the literature. 
+60 data sets were used in the models designed for V-funnel, 108 data sets in the model designed for T50, 122 data sets in the model designed for slump-flow, and 67 data in the model designed for compressive strength.
+
+The inputs are as follows
+X1: cement (C)
+X2: silica fume+silica powder+stone fume(S) 
+X3: fly ash (FA) 
+X4: maximum aggregate size (Dmax)
+X5: fine aggregate (Fi) 
+X6: coarse aggregate (CA) 
+X7: water (W) 
+X8: chemical additive (A) 
+X9: amount of steel fiber (StF) 
+X10: diameter of steel fiber (FD) 
+X11: length of steel fiber (FD)
+
+The output are as follows
+Y1:  v-funnel (VF) 
+Y2:  T50
+Y3:  slump-flow (SF)
+Y4:  compressive strength (Fc)
+
+
